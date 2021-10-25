@@ -64,7 +64,7 @@ const Header = () => {
         >
           <Link
             marginRight={[4]}
-            href="#https://discord.gg/vr74bMDa"
+            href="https://discord.gg/vr74bMDa"
             target="_blank"
             rel="noopener noreferrer"
           >
